@@ -1,1 +1,1 @@
-- loadstring(game:HttpGet('https://raw.githubusercontent.com/Filebrute-lua/RH2/main/KittyKoolKlub'))()
+HttpGet('https://raw.githubusercontent.com/Filebrute-lua/RH2/main/KittyKoolKlub'))()
